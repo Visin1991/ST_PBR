@@ -1,0 +1,17 @@
+{
+   "name" : "V.ST_PBR.Editor.Tests",
+   "references":
+   [
+       "V.ST_PBR.Runtime",
+       "V.ST_PBR.Editor"
+   ],
+   "optionalUnityReferences": [],
+   "includePlatforms": ["Editor"],
+   "excludePlatforms": [],
+   "allowUnsafeCode": true,
+   "overrideReferences": true,
+   "precompiledReferences": [],
+   "autoReferenced": false,
+   "defineConstraints": [],
+   "versionDefines": []
+}

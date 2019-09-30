@@ -1,0 +1,16 @@
+{
+   "name" : "V.ST_PBR.Runtime.Tests",
+   "references":
+   [
+       "V.ST_PBR.Runtime"
+   ],
+   "optionalUnityReferences": [],
+   "includePlatforms": [],
+   "excludePlatforms": [],
+   "allowUnsafeCode": true,
+   "overrideReferences": true,
+   "precompiledReferences": [],
+   "autoReferenced": false,
+   "defineConstraints": [],
+   "versionDefines": []
+}

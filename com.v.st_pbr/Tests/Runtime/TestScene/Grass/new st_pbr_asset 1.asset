@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec510b9f57ddc534a8f1fdd29c520386, type: 3}
+  m_Name: new st_pbr_asset 1
+  m_EditorClassIdentifier: 
+  colorMap: {fileID: 2800000, guid: e1657930a5669d84d9494a5365df11f5, type: 3}
+  normal: {fileID: 2800000, guid: 2d4fd186595e89043a5fa231ed1105d0, type: 3}
+  mo_a: {fileID: 2800000, guid: 18f9fc104ba41e548a6d4f62e6e1cd8b, type: 3}
+  normalStength: 0.162
+  NormalblurIteration: 0
+  materialProperty:
+    _MetaMin: 0
+    _MetaMax: 0
+    _SmoothMin: 0.261
+    _SmoothMax: 0.654
+    _SmoothScale: 0.159
